@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The allegations of the glass-makers examin'd and answer'd</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26675</idno>
+            <idno type="STC">Wing A953A</idno>
+            <idno type="STC">ESTC R213937</idno>
+            <idno type="EEBO-CITATION">99826185</idno>
+            <idno type="PROQUEST">99826185</idno>
+            <idno type="VID">30578</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26675)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30578)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1822:9; 21242:132)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The allegations of the glass-makers examin'd and answer'd</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1697?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>An attack on the glass-workers' complaints against the duties imposed on glass wares.</note>
+                  <note>Reproduction of the original at the Guildhall Library, London (reel 1822) and the British Library (reel 2124.2).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Glass manufacture --  England --  London --  Early works to 1800.</term>
+               <term>Tariff --  England --  Early works to 1800.</term>
+               <term>Glassworkers --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:30578:1" rendition="simple:additions"/>
+            <head>The Allegations of the Glaſs-Makers Examin'd and Anſwer'd.</head>
+            <p>THE Glaſs-makers who petition againſt the Duty, Alledge,</p>
+            <p n="1">I. That by reaſon of the Duty, the Manufactures are ſtopp'd, and the Makers, which are Numerous, reduc'd to Poverty.</p>
+            <p>'Tis plain that's but a Pretended Cauſe; and 'tis eaſy to prove, That the Real Cauſe of what Stop. has been made, is the Solicitation of ſome particular Men, who wrote Letters to deſire the Glaſs-makers to put out their Fires, and to raiſe Contributions to carry on their Petition; for at the ſame time that they affirm want of Demand for Goods occaſion'd them to put out their Fires, the want of Goods is ſo great among them, that the Prices of all Glaſs are conſiderably riſen; and ſeveral Houſes had prepar'd to work, and muſt begin quickly, whether the Duty be taken off or no; one of which is a Rebuilt Houſe, that has not wrought for ſeveral Years before.</p>
+            <p>The Demand for Bottles indeed at <hi>Glouceſter</hi> and <hi>Sturbridge</hi> may have been leſs than uſual: But the want of Cyder, not the Duty, has been the Occaſion of that, together with the vaſt Quantity they made before the Act took place: For 'tis known they have had no Cyder for Two Years paſt, on which the Bottle-Trade in thoſe Parts depends; and this is plain, becauſe the Flint and Broad Glaſs-houſes there, have wrought all along as uſual, till by Let<g ref="char:EOLhyphen"/>ters from <hi>London</hi> they were deſir'd to ſtop, to make a Pretence for Petitioning.</p>
+            <p>So that the Glaſs-makers themſelves being chiefly the Occaſion of the Stop on the Trade, are anſwerable for all the Poverty of the Workmen; and yet thoſe Workmen are far from being ſo Numerous as they pretend, there being not Eight hundred People employ'd in or about all the Glaſs-Works in <hi>England.</hi>
+            </p>
+            <p n="2">II. They alledge, That the Duties have leſſen'd the Conſumption.</p>
+            <p>This they very happily contradict themſelves; for they alſo affirm, That Cheapneſs only cauſes Conſumption. Now 'tis plain they have ſold all ſorts of Glaſs, except Bottles, cheap<g ref="char:EOLhyphen"/>er ſince the Act, than they did before, till the putting out of their Fires, or elſe the Glaſs-makers are forſworn; for their own Affidavits can be produced to prove it. If then Glaſs-Wares have been cheaper ſince the Duty than before, and Cheapneſs cauſes Conſumption, as they allow, How is it poſſible the Duty can have leſſen'd the Conſumption? And yet this Cheap<g ref="char:EOLhyphen"/>neſs has not been occaſion'd by the Duty neither, but by the Glaſs-makers themſelves, to deſtroy others who were ſetting up againſt them, as Mr. <hi>Jackſon</hi> himſelf has acknowledg'd.</p>
+            <p n="3">III. They pretend, That Glaſs-Wares are more for Fancy than Neceſſity; and the Breakage and Hazard ſuch as will not bear a Duty.</p>
+            <p>This is againſt them too.</p>
+            <p>For if they are for Fancy more than Neceſſity, they may the better bear a Tax; for then no Poor Man who can diſpenſe with his Fancy, need part with his Money; and yet we find Glaſs-Wares are ſo neceſſary, that hardly any people are without them; and by the calling in the Plate, may come to be ſo much us'd, as to make the Duty very con<g ref="char:EOLhyphen"/>ſiderable.</p>
+            <p>As to Loſſes and Breakage, they do as all other Dealers in Periſhable Commodities do in like Caſes, conſider it in the Prices they ſell at.</p>
+            <p n="4">IV. They alledge, They have great Quantities of Bottles by them, which they cannot diſpoſe of; and Capt. <hi>Gutteridge</hi> pretends to have loſt 1000 <hi>l.</hi> for his own Share of a Bottle-Houſe, by reaſon of this Duty.</p>
+            <p>It were to be wiſh'd theſe Gentlemen might affirm theſe things upon Oath, and then 'twou'd be hop'd the difference between Allegations and Affidavits would appear.</p>
+            <p>For as to the Quantity of Bottles on hand which they cannot diſpoſe of;</p>
+            <p>'Tis publickly known no Bottles are now to be had, or at leaſt no quantity; and 'tis prov'd by this, That whereas in <hi>June</hi> laſt they were to be ſold at 3 <hi>s. per Doz.</hi> Quarts, and 2 <hi>s.</hi> 6 <hi>d.</hi> Pints, now they ſell at 3 <hi>s.</hi> 6 <hi>d. per Doz.</hi> Quarts, and 3 <hi>s.per Doz.</hi> Pints, and hardly any to be had ſo.</p>
+            <p>But how Captain <hi>Gutteridge</hi> can make out his pretence, is a further Myſtery.</p>
+            <p>For he is but One Fourth part concern'd in the ſaid Glaſs-Houſe, and all the Duty ever paid by them to the King, came but to 419 <hi>l.</hi> 6 <hi>s.</hi> 6 <hi>l.</hi> for his Share; and how he could Loſe a 1000 <hi>l.</hi> out of it, is a Riddle wants explaining; for 'tis known alſo, That the Bottles they made, Sold for ſo much more than uſual, as the Duty came to; and yet if all the Bottles made at that Houſe ſince the Duty had been thrown away, they could not have loſt much above a 1000 <hi>l.</hi> a Man, which he affirms they have loſt by the Duty. And this very Gen<g ref="char:EOLhyphen"/>tleman
+<pb facs="tcp:30578:2" rendition="simple:additions"/>has declared ſince this very Seſſion of Parliament, That the Duty did them no Harm; and laſt Seſſion of Parliament did prepare and Sign a Petition againſt the Taking off the ſaid Duty; the Original whereof is ready to be produced.</p>
+            <p n="5">V. They make great pretenſions of the Art being Loſt and Engroſs'd by Foreigners; and Mr. <hi>Jackſon</hi> ſays there uſes to be Tranſported to <hi>Ireland</hi> 5000 <hi>l.</hi> a Year in Glaſs-Wares.</p>
+            <p>This any Man that underſtands the Trade of Glaſs knows to be ridiculous.</p>
+            <p>For as to the ſetting up the Manufacture abroad, it has often been tried, to the Loſs of ſe<g ref="char:EOLhyphen"/>veral Thouſand Pounds, before the Duty was laid; and the Diſtance and Dearneſs of Ma<g ref="char:EOLhyphen"/>terials make it impracticable; and the Duty cannot alter it one way or other, becauſe 'tis wholly allow'd them back upon Exportation: And ſome of the Glaſs-Makers have been abroad to try what Encouragement the <hi>Dutch</hi> would give them, but have found it to no purpoſe, and are accordingly come back again.</p>
+            <p>And as to Mr. <hi>Jackſon</hi>'s ſaying there has been 4 or 5000 <hi>l.</hi> Yearly Exported to <hi>Ireland;</hi> it were to be wiſh'd Mr. <hi>Jackſon</hi> was order'd to prove that ever One Fifth of that Quantity was ſent to <hi>Ireland</hi> in one Year; and it might be made appear, that more has been ſent thither, as well as to other Parts, ſince the Duty, than ever has been in any one Year in 7 Years before.</p>
+            <p>Thus the Glaſs-Makers to make good their Petition are forced to fly to Fictions and Falſi<g ref="char:EOLhyphen"/>ties; which becauſe the Perſons Employed to Manage it for his Majeſty think it their Duty to Detect, they Publiſh Pamphlets upon them fill'd with falſe and ſcurrilous Reflecti<g ref="char:EOLhyphen"/>ons; denying what is offered to be proved upon them, and falſly affirming plain Contra<g ref="char:EOLhyphen"/>dictions, which they know they cannot make out, <hi>preſuming upon their being Examined only upon Parole;</hi> reproaching the Commiſſioners with Arguing for the Duty only to preſerve their Salaries, though the Commiſſioners only Anſwer'd ſuch Queſtions as the Chairman of the Committee put to them, nor ever appear'd till they were ſent for.</p>
+            <p>And now they are arriv'd to that degree, puſh'd on by <hi>the Inſolence of</hi> Solicitors, as to Print the very Account, and Papers delivered in to the Committee of the Houſe of Com<g ref="char:EOLhyphen"/>mons, as is preſum'd without Leave for ſo doing, and to annex their moſt ridiculous Calcu<g ref="char:EOLhyphen"/>lations of what will be, and what may be; which will appear to be Erroneous to any that pleaſe to examine them: As for inſtance, their Calculations of Debentures and Deductions from the Duty, which now they have Printed, are Falſe in every Article, they having car<g ref="char:EOLhyphen"/>ried the Account of Debentures on above Two Months farther than the Commiſſioners Account of the Duty extends, on purpoſe to make the Sums ſeem the Larger, and then given a prepoſterous Calculation of what will be, and what may be, if ſuch or ſuch things hap<g ref="char:EOLhyphen"/>pen, which are never likely to come to paſs. Now 'tis moſt certainly true, if they keep from Working. there will never any more Duty be Collected; <hi>but 'tis as true,</hi> if the Duty continue, and they can be kept from Cheating the King, and Swearing down the Value lower than they Sell, the Duty will certainly raiſe 25000 <hi>l. per Ann.</hi> on Glaſs, and above 30000 <hi>l. per Ann.</hi> on Pipes and Earthen Wares; and the Commiſſioners not only brought Perſons ready to Farm them at 50000 <hi>l. per Ann.</hi> as Directed by the Committee, but gave good Reaſons for their Opinion; ſome of which Reaſons are as follow:
+<list>
+                  <item>1. Becauſe in one particular Quarter, from <hi>May</hi> 17 to <hi>Auguſt</hi> 17, when they did not expect the Duty ſhould be taken off, the Glaſs and Pipes and Earthen Ware did actually bring in 11000 <hi>l.</hi>
+                  </item>
+                  <item>2. Becauſe the Makers all over <hi>England</hi> ſtock'd themſelves and the Retailers alſo with all ſorts of the ſaid Wares before the Acts took place, and ſome of them enough to ſupply them for a Twelvemonth.</item>
+                  <item>3. Becauſe in the <hi>Weſt</hi> Parts of <hi>England,</hi> as <hi>Sturbridge</hi> and <hi>Glouceſter,</hi> they have had no Cyder for Two Years paſt, which has occaſion'd leſs Demand for Bottles.</item>
+                  <item>4. The Makers have contriv'd to put a ſtop to their Works to leſſen the Duties.</item>
+                  <item>5. That the Duty on the Earthen Ware being Collected by the ſame Officers as the other Duties, coſt the King not a Penny to Collect it, and will pay the Charge of the reſt.</item>
+                  <item>6. The ſame Obſtructions that have hindred and leſſen'd other Branches of His Majeſty's Revenue, have had the like Influence upon this.</item>
+                  <item>7. Their abating the Prices, in order to deſtroy one another, which has conſiderably aba<g ref="char:EOLhyphen"/>ted the Duty on Glaſs.</item>
+                  <item>8. No Duty at firſt ever rais'd what after ſome time they are brought to; and the Makers of theſe Wares have more ways than all people know of, to Evade a Duty, which in time may be prevented, but at firſt cannot not ſo well be known.</item>
+               </list>
+            </p>
+            <p>There are alſo no Reaſons offered againſt theſe Duties but what ſtand good againſt all the ſeveral Duties of Exciſe on Beer, Ale, and other Liquors, the Perſons employ'd by them being infinitely more Numerous than thoſe concern'd in theſe Manufactures.</p>
+            <p>The Glaſs-Makers having never been able to Anſwer theſe Reaſons, have ſuppli'd it with Railing at the Commiſſioners, with Threatnings to Expoſe them and <hi>De-Witt</hi> them; which the Commiſſioners do not think worth while to Reply to.</p>
+            <p>
+               <hi>All which is Humbly Referr'd to the Honourable the Houſe of Commons.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
